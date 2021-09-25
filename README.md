@@ -1,1 +1,1 @@
-# LeetCodeDaily
+# For coding practice
